@@ -1,0 +1,1 @@
+export const EXTRACT_RECIPE = 'EXTRACT_RECIPE';
